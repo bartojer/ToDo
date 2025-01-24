@@ -26,9 +26,9 @@ fun main() = application {
     })
 
     val options = FirebaseOptions(
-        projectId = "kotlin-to-do-5afeb",
-        applicationId = "1:512577602896:web:d3ebae6c8bb55e59839855",
-        apiKey = "AIzaSyAp-XE1h9EWiM1pJ3fNaitPb3xwdB1QTdw"
+        projectId = "",
+        applicationId = "",
+        apiKey = ""
     )
     Firebase.initialize(Application(), options)
 
