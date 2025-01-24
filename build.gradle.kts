@@ -10,4 +10,10 @@ plugins {
     kotlin("plugin.serialization") version libs.versions.kotlin
 
     id("com.google.gms.google-services") version "4.4.2" apply false
+//    id("com.android.application")
+//    id("org.jetbrains.kotlin.android")
+//}
+//
+//dependencies {
+//    implementation(libs.androidx.navigation.compose)
 }

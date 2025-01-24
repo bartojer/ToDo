@@ -28,8 +28,8 @@ fun ToDoItem(todo: ToDo, clicked: () -> Unit) {
             Text(text = todo.title, style = MaterialTheme.typography.titleMedium)
             Spacer(modifier = Modifier.padding(4.dp))
             Text(text = todo.description, style = MaterialTheme.typography.bodyMedium)
-            Spacer(modifier = Modifier.padding(2.dp))
-            Text(text = "MORE TODO INFORMATION HERE(TODOITEM.KT)", style = MaterialTheme.typography.bodySmall)
+//            Spacer(modifier = Modifier.padding(2.dp))
+//            Text(text = "MORE TODO INFORMATION HERE(TODOITEM.KT)", style = MaterialTheme.typography.bodySmall)
         }
     }
 }

@@ -1,3 +1,5 @@
+// Jeremy Barton, Roger Manzano
+
 package todo.desktop.domain
 
 import kotlinx.serialization.Serializable
