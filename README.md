@@ -27,7 +27,3 @@ https://github.com/GitLiveApp/firebase-kotlin-sdk?tab=readme-ov-file
 
 Video reference of KMP and firebase configuration
 https://www.youtube.com/watch?v=ytJ3NrXz5bE&t=255s
-
-apiKey: "AIzaSyAp-XE1h9EWiM1pJ3fNaitPb3xwdB1QTdw",
-projectId: "kotlin-to-do-5afeb",
-appId: "1:512577602896:web:d3ebae6c8bb55e59839855",
