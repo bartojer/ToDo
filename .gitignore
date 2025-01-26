@@ -16,3 +16,4 @@ captures
 !*.xcodeproj/project.xcworkspace/
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
+#C:\Users\barto\OneDrive\Desktop\BYUI\2025 Winter\cse310\AppliedProgramming\ToDoClone\composeApp\src\desktopMain\kotlin\todo\desktop\main.kt
